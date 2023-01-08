@@ -10,7 +10,9 @@ Como já pretendia criar um NAS, para armazenar meus arquivos, resolvi ir um pas
 
 Criei esse diagrama, para esquematizar como seria o funcionamento da rede com um único servidor físico e usando VMs para cada uso. 
 
-![](Imagens\Constructo - 07_01_2023.png)
+![](Imagens/Constructo%20-%2007_01_2023.png)
+
+
 
 ## Conteúdo (em breve)
 
