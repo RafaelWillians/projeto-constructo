@@ -2,10 +2,12 @@
 
 # Script de instalacao do Zabbix 7.2 (server, frontend, agent, com postgresql e apache) no container Ubuntu Noble
 
+# !!! Revisar !!!
 # Instalar o curl e wget
 sudo apt update -y
 sudo apt install -y curl
 sudo apt install -y wget
+# !!! Revisar !!!
 
 # Checa o status do apache
 sudo systemctl status apache2
