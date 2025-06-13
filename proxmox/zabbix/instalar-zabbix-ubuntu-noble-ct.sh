@@ -64,5 +64,7 @@ sudo grep -q '^DBPassword=' /etc/zabbix/zabbix_server.conf || echo 'DBPassword=z
 sudo systemctl restart zabbix-server zabbix-agent apache2
 sudo systemctl enable zabbix-server zabbix-agent apache2
 
+# !!! Revisar !!!
 # Depois, basta abrir no navegador digitando localhost/zabbix ou <hostname>/zabbix
 xdg-open http://localhost/zabbix
+# !!! Revisar !!!
