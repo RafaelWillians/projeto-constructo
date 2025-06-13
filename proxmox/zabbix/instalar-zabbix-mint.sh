@@ -2,8 +2,10 @@
 
 # Script de instalacao do Zabbix 7.2 (server, frontend, agent, com postgresql e apache) no Linux Mint 22.1
 
+# !!! Revisar !!!
 # Checa o status do apache
 sudo systemctl status apache2
+# !!! Revisar !!!
 
 # Instala o apache
 sudo apt install -y apache2
